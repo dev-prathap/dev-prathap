@@ -25,6 +25,11 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?&logo=tailwind-css)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?&logo=postman)
+![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?&logo=springboot&logoColor=white)
+
 
 ---
 
