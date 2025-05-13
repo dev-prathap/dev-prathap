@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Prathap Kumar
+# 👋 Hey there, I'm Prathap
 
 **Cloud & AI Platform Lead Engineer @ Wonkrew**  
 🚀 Delivering intelligent, scalable, and high-performance systems across web, mobile, and cloud.
