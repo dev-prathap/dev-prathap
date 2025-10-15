@@ -1,7 +1,7 @@
 <h1 align="center">⚡ Hi, I'm Prathap</h1>
 
 <p align="center">
-  <b>Founder & Chief Architect @ <a href="https://sidewayssix.com">Sidewayssix (SWIX)</a></b><br>
+  <b>Founder & AI Systems Architect @ <a href="https://sidewayssix.com">Sidewayssix (SWIX)</a></b><br>
   🧠 Architecting the future of autonomous intelligence and cognitive cloud systems.
 </p>
 
